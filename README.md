@@ -1,5 +1,5 @@
 Memory matching game
-Click here to Play the GAME!!
+
 This project is made using HTML,CSS & JavaScript.
 
 It's a simple online memory matching game, which contains various levels.
